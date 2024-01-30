@@ -1,6 +1,5 @@
 /doc/
 /lib/messageformat-parser.js
-/messageformat.js
 node_modules/
 
 # Test artifacts
